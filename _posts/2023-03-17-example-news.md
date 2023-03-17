@@ -1,9 +1,7 @@
 ---
 layout: post
 title: Example news
-categories: [News]
+categories:
 ---
-
-## Example news
 
 Example news

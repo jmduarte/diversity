@@ -1,11 +1,9 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Resouces
+permalink: /resources/
 ---
 
-UC San Diego Physics Equity, Diversity, and Inclusion web page.
-
-## Resources
+## Campus
 
 - [UC San Diego Office of Equity, Diversity, and Inclusion](https://diversity.ucsd.edu/)
