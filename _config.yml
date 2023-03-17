@@ -3,16 +3,16 @@
 #
 
 # Name of your site (displayed in the header)
-name: Reverie
+name: UC San Diego Physics Equity, Diversity, and Inclusion
 
 # Name of the author
-author: UCSD Physics EDI Committee
+author: UC San Diego Physics EDI Committee
 
 # Short bio or description (displayed in the header)
-description: An elegant Jekyll theme
+description: Information and resources related to Equity, Diversity, and Inclusion in the UC San Diego Physics Department
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /images/reverie.png
+avatar: /images/ucsd_physics.jpg
 
 #
 # Flags below are optional
@@ -21,18 +21,18 @@ avatar: /images/reverie.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: amit.d.merchant@gmail.com
+  email: jduarte@ucsd.edu
   facebook:
   flickr:
-  github: amitmerchant1990/reverie
+  github: ucsd-hep-ex/diversity
   instagram:
   linkedin: 
   pinterest:
   rss: rss
-  twitter: amit_merchant
+  twitter:
   stackoverflow: 
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
+  youtube:
+  googleplus:
   playconsole:
 
 
