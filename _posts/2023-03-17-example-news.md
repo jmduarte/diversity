@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Welcome
+title: Example news
 categories: [News]
 ---
 
-## Example News
+## Example news
 
-Example news item.
+Example news
