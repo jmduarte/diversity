@@ -1,1 +1,1 @@
-Sitemap: http://ucsd-hep-ex.github.io/diversity/sitemap.xml
+Sitemap: http://ucsd-physics-edi.github.io/sitemap.xml

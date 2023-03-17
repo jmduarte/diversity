@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://ucsd-hep-ex.github.io/diversity/example-news/</loc>
+<loc>http://ucsd-physics-edi.github.io/example-news/</loc>
 <lastmod>2023-03-17T00:00:00+00:00</lastmod>
 </url>
 <url>
-<loc>http://ucsd-hep-ex.github.io/diversity/404</loc>
+<loc>http://ucsd-physics-edi.github.io/404</loc>
 </url>
 <url>
-<loc>http://ucsd-hep-ex.github.io/diversity/</loc>
+<loc>http://ucsd-physics-edi.github.io/</loc>
 </url>
 <url>
-<loc>http://ucsd-hep-ex.github.io/diversity/resources/</loc>
+<loc>http://ucsd-physics-edi.github.io/resources/</loc>
 </url>
 <url>
-<loc>http://ucsd-hep-ex.github.io/diversity/search/</loc>
+<loc>http://ucsd-physics-edi.github.io/search/</loc>
 </url>
 </urlset>
