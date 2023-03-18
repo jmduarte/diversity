@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://diversity.physics.ucsd.edu/example-news/</loc>
-<lastmod>2023-03-17T00:00:00+00:00</lastmod>
-</url>
-<url>
 <loc>http://diversity.physics.ucsd.edu/404</loc>
-</url>
-<url>
-<loc>http://diversity.physics.ucsd.edu/</loc>
 </url>
 <url>
 <loc>http://diversity.physics.ucsd.edu/</loc>
@@ -18,5 +11,9 @@
 </url>
 <url>
 <loc>http://diversity.physics.ucsd.edu/search/</loc>
+</url>
+<url>
+<loc>http://diversity.physics.ucsd.edu/files/EDIStrategicPlan-v0.5.pdf</loc>
+<lastmod>2023-03-18T00:51:38+00:00</lastmod>
 </url>
 </urlset>
