@@ -4,6 +4,8 @@ title: Resources
 permalink: /resources/
 ---
 
+Below, we collect some EDI resources and links for physics students.
+
 ## Department of Physics
 
 - [Department EDI Strategic Plan](../files/EDIStrategicPlan-v0.5.pdf)
