@@ -21,3 +21,7 @@ The current Physics EDI Committee (2022-2023) is composed of
 - Bret Noel <bnoel@ucsd.edu>
 - Karin Sandstrom <kmsandstrom@ucsd.edu>
 - Yi-Zhuang You <yzyou@ucsd.edu>
+
+## Land Acknowledgement
+
+The UC San Diego community holds great respect for the land and the original people of the area where our campus is located. The university is built on the un-ceded territory of the Kumeyaay Nation. Today, the Kumeyaay people continue to maintain their political sovereignty and cultural traditions as vital members of the San Diego community. We acknowledge their tremendous contributions to our region and thank them for their stewardship. 
