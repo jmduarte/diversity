@@ -25,6 +25,7 @@ Below, we collect some EDI resources and links for physics students, faculty, an
 - [UCSD SACNAS Chapter](https://sacnasatucsd.ucsd.edu/)
 - [Black Studies Project](https://bsp.ucsd.edu/)
 - [Chicanx and Latinx Studies](https://cls.ucsd.edu/)
+- [Intertribal Resource Center](https://itrc.ucsd.edu/)
 
 ## Graduate Admissions
 
